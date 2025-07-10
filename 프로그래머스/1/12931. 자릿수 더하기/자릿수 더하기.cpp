@@ -8,7 +8,4 @@ for(; n>0; n /= 10) answer += n % 10;
     return answer;
 }
 
-int main() {
-    cout<< "solution(123)" << endl;
-    cout<< "solution(987)" << endl;
-}
+
